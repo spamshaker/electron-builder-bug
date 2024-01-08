@@ -1,0 +1,18 @@
+{
+  "name": "electron-builder-bug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "app-builder-bin-4.0.0": "npm:app-builder-bin@4.0.0",
+    "app-builder-bin-4.2.0": "npm:app-builder-bin@4.2.0"
+  }
+}
